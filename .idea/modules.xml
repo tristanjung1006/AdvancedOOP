@@ -3,6 +3,21 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AdvancedOOP.iml" filepath="$PROJECT_DIR$/AdvancedOOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Menu/Menu.iml" filepath="$PROJECT_DIR$/Menu/Menu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hw10_1/hw10_1.iml" filepath="$PROJECT_DIR$/hw10_1/hw10_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hw12_1/hw12_1.iml" filepath="$PROJECT_DIR$/hw12_1/hw12_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hw14_1/hw14_1.iml" filepath="$PROJECT_DIR$/hw14_1/hw14_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hw5_1/hw5_1.iml" filepath="$PROJECT_DIR$/hw5_1/hw5_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hw6_1/hw6_1.iml" filepath="$PROJECT_DIR$/hw6_1/hw6_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hw7_1/hw7_1.iml" filepath="$PROJECT_DIR$/hw7_1/hw7_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hw8_1/hw8_1.iml" filepath="$PROJECT_DIR$/hw8_1/hw8_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hw9_1/hw9_1.iml" filepath="$PROJECT_DIR$/hw9_1/hw9_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/midterm2021/midterm2021.iml" filepath="$PROJECT_DIR$/midterm2021/midterm2021.iml" />
+      <module fileurl="file://$PROJECT_DIR$/midterm2022/midterm2022.iml" filepath="$PROJECT_DIR$/midterm2022/midterm2022.iml" />
+      <module fileurl="file://$PROJECT_DIR$/midterm2023/midterm2023.iml" filepath="$PROJECT_DIR$/midterm2023/midterm2023.iml" />
+      <module fileurl="file://$PROJECT_DIR$/polymorphism/polymorphism.iml" filepath="$PROJECT_DIR$/polymorphism/polymorphism.iml" />
+      <module fileurl="file://$PROJECT_DIR$/singleton/singleton.iml" filepath="$PROJECT_DIR$/singleton/singleton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/strategy/strategy.iml" filepath="$PROJECT_DIR$/strategy/strategy.iml" />
     </modules>
   </component>
 </project>
